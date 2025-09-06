@@ -10,18 +10,18 @@ Features:
 
 
 Tech Stack:
-1.HTML5 – Structure of the game.
-2.CSS3 – Styling, animations, and responsive layout.
-3.JavaScript (ES6) – Game logic, collision detection, scoring, and controls.
+1.HTML5 – Structure of the game.  
+2.CSS3 – Styling, animations, and responsive layout.   
+3.JavaScript (ES6) – Game logic, collision detection, scoring, and controls.  
 
-How to Play
-Clone the repository:
+How to Play: 
+Clone the repository:  
 git clone https://github.com/your-username/idragon-game.git
-cd idragon-game
+cd idragon-game  
 
-Open index.html in your browser.
+Open index.html in your browser.  
 
-Controls:
-↑ (Up Arrow) → Jump
-→ (Right Arrow) → Move Right
-← (Left Arrow) → Move Left
+Controls:  
+↑ (Up Arrow) → Jump  
+→ (Right Arrow) → Move Right 
+← (Left Arrow) → Move Left  
