@@ -15,8 +15,8 @@ Tech Stack:
 3.JavaScript (ES6) – Game logic, collision detection, scoring, and controls.  
 
 How to Play: 
-Clone the repository:  
-git clone https://github.com/your-username/idragon-game.git
+Clone the repository:       
+http://127.0.0.1:5500/DragonDash-Game-main/index.html        
 cd idragon-game  
 
 Open index.html in your browser.  
